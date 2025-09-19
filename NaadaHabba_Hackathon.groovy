@@ -3,7 +3,7 @@ import { Calendar, Clock, Users, AlertTriangle, MessageCircle, Plus, Star, MapPi
 
 // Hugging Face API settings
 const HF_API_URL = "https://api-inference.huggingface.co/models/google/flan-t5-base"; 
-const HF_API_KEY = "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"; // embedded key
+const HF_API_KEY = "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"; // embedded key
 
 
 const NaadaAgent = () => {
@@ -806,5 +806,6 @@ ${info.kn}
     </>
   );
 };
+
 
 export default NaadaAgent;
